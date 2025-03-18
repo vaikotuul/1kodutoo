@@ -17,7 +17,7 @@ Kujunda elektroonilise kella näide kasutades chatGPT-d(https://chat.openai.com/
 1. Autori ees- ja perenimi on lehel välja toodud
 1. Lehel on viide rakenduse repositooriumile
 1. `README.md` failis on välja toodud autori nimi, ekraanipilt rakendusest ja kirjeldatud funktsionaalsus
-1. Lisa repositooriumisse wordi fail vestlusest chatGPT-ga. 
+1. Viidata kogu koodis promptidele, millega kood saadi. 
 
 ## Mõned ideed võimalikeks täiendusteks (lihtsalt, et mõte hakkaks jooksma)
 
@@ -33,10 +33,6 @@ Kujunda elektroonilise kella näide kasutades chatGPT-d(https://chat.openai.com/
 * Kasutaja saab lisada või kasutajaöe näidatakse mitu kellaaega erinevatest maailma kohtadest
 * Elemendid muudavad asukohta teatud kasutaja käitumise peale.
 * Saab vahetada keelt, kellaformaati vms.
-
-
-Kuidas alustada chatGPT-ga: https://www.youtube.com/watch?v=JTxsNm9IdYU
-Kuidas chatGPT lubab saada paremaks programmeerijaks: https://www.youtube.com/watch?v=Gmx-54k3pUk
 
 
 ### GitHub'i töövoog kodutöö esitamiseks
