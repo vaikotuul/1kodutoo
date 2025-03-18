@@ -1,7 +1,7 @@
 # 1-kodutoo
 # 1-kodutoo
 
-## Tähtaeg 31.03.2022 23:59
+## Tähtaeg 31.03.2025 23:59
 
 Kujunda elektroonilise kella näide kasutades chatGPT-d(https://chat.openai.com/chat) vastavalt maitsele või kindlale teemale, mahutades kella täisekraanile, et saaks kasutada lauakella või ekraanisäästja asemel. Selleks, et see sobiks paljudele ekraanidele, kasuta kujunduse loomisel protsendilisi väärtusi (nt width: 100%; ) või nt võimalda kella suurust kasutajal muuta.
 
