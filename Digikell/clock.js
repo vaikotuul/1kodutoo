@@ -1,4 +1,12 @@
-// Algseadistused
+// Kõigepealt andsin DeepSeek-ile aine taustainfo koos ülesande kirjelduse ja nõuetega.
+// "Mul on vaja aines Eesrakenduste arendamine (Õppeaine eesmärgid - Luua eeldused veebirakenduste kaasaegsete kasutajaliideste koostamise oskuse saavutamiseks.) teha ülesanne. 
+// Kujunda elektroonilise kella näide vastavalt maitsele või kindlale teemale, mahutades kella täisekraanile, et saaks kasutada lauakella või ekraanisäästja asemel." *edasi järgnesid ülesande nõuded*
+// Selle peale genereeris AI kohe koodi, mis oli ühes HTML failis.
+// Kood oli esialgselt juba päris hea. Mõned asjad vajasid muutmist (nt fontide muutmine, fontide valik, interaktsioonid. CSS-is hover meetodid nuppudele) 
+// Kommentaarid lisasin ise.
+
+
+// Algsätted
 let currentFontSize = 1;
 const fonts = ['Orbitron', 'Open Sans', 'Roboto Mono', 'Courier New', 'Arial'];
 let currentFontIndex = 0;
@@ -9,7 +17,7 @@ let position = { x: 0, y: 0 };
 const timeElement = document.getElementById('time');
 const dateElement = document.getElementById('date');
 
-// Kuupäeva ja kella ajakohastamine
+// Kuupäeva ja kella uuendamine
 function updateDateTime() {
     const now = new Date();
     const dateOptions = {
