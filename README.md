@@ -1,7 +1,7 @@
 # Interaktiivne Digikell
 Autor: **Vaiko Villiam Tuul**
 
-![Kuvatõmmis](https://github.com/vaikotuul/1kodutoo/blob/main/Kuvat%C3%B5mmis%202025-03-31%20195218.png?raw=true)
+![Kuvatõmmis](https://github.com/vaikotuul/1kodutoo/blob/main/pildid/Kuvat%C3%B5mmis%202025-03-31%20195218.png?raw=true)
 
 ## Funktsionaalsus
 - Reaalajas kuvatav kell kuu- ja nädalapäevaga
