@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #1a1a1a;
+    overflow: hidden;
+    position: relative;
+}
+
+.clock-container {
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+    user-select: none;
+    padding: 2px;
+    transform-origin: center center;
+}
+
+#time {
+    font-size: 8vw;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 0 0 15px currentColor;
+    margin-bottom: 2vh;
+    letter-spacing: 2px;
+}
+
+#date {
+    font-size: 2vw;
+    font-family: 'Orbitron', sans-serif;
+    opacity: 0.8;
+    margin-top: 1vh;
+}
+
+.author-info {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    color: rgba(255,255,255,0.7);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    z-index: 1000;
+}
+
+.author-info a {
+    color: #00ff88;
+    text-decoration: none;
+    transition: opacity 0.3s;
+}
+
+.author-info a:hover {
+    opacity: 0.7;
+}
+
+/* Liikumisanimatsioonide jaoks */
+.clock-container {
+    transition: 
+        color 0.5s ease, 
+        transform 0.1s linear;
+}
