@@ -1,9 +1,17 @@
 // Kõigepealt andsin DeepSeek-ile aine taustainfo koos ülesande kirjelduse ja nõuetega.
-// "Mul on vaja aines Eesrakenduste arendamine (Õppeaine eesmärgid - Luua eeldused veebirakenduste kaasaegsete kasutajaliideste koostamise oskuse saavutamiseks.) teha ülesanne. 
-// Kujunda elektroonilise kella näide vastavalt maitsele või kindlale teemale, mahutades kella täisekraanile, et saaks kasutada lauakella või ekraanisäästja asemel." *edasi järgnesid ülesande nõuded*
 // Selle peale genereeris AI kohe koodi, mis oli ühes HTML failis.
 // Kood oli esialgselt juba päris hea. Mõned asjad vajasid muutmist (nt fontide muutmine, fontide valik, interaktsioonid. CSS-is hover meetodid nuppudele) 
 // Kommentaarid lisasin ise.
+
+// Sisuliselt sain hakkama kahe promptiga 
+// Esialgne ülesande kirjeldus
+// "Mul on vaja aines Eesrakenduste arendamine (Õppeaine eesmärgid - Luua eeldused veebirakenduste kaasaegsete kasutajaliideste koostamise oskuse saavutamiseks.) teha ülesanne. 
+// Kujunda elektroonilise kella näide vastavalt maitsele või kindlale teemale, mahutades kella täisekraanile, et saaks kasutada lauakella või ekraanisäästja asemel." *edasi järgnesid ülesande nõuded*
+
+// DVD lisa leht
+// "Loo lisaks funktsioon või eraldi leht, kus oleks kell vana DVD screensaveri moodi. Kell ja kuupäev põrkavad mööda ekraani, iga põrkega muutub selle värv".
+// Muidugi oli DVD screensaveri stiili promti response-iga probleeme, ning selle sarnast prompti esitasin DeepSeek-ile mitu korda. 
+
 
 
 // Algsätted

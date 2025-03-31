@@ -2,8 +2,8 @@
 // Selle kellaga oli mul kõige rohkem probleeme.
 // DeepSeekile esitasin prompti "Loo lisaks funktsioon või eraldi leht, kus oleks kell vana DVD screensaveri moodi. Kell ja kuupäev põrkavad mööda ekraani, iga põrkega muutub selle värv".
 // Esimesed koodid mis AI genereeris, toimisid, aga olid vigased. CSS faili jätsin esialgselt samaks.
-// Proovisin erinevaid prompte, et leida oma viga üles. Laadisin isegi faili deepseeki üles, kuid ei midagi.
-// Proovisin ka GitHub Copilotiga, kuid sellega tulid veel hullemad tulemused.
+// Proovisin erineva sõnastusega prompte, et leida oma viga üles. Laadisin isegi faili deepseeki üles, kuid ei midagi.
+// Proovisin ka GitHub Copilotiga, mis vaatas otse faili, kuid sellega tulid veel hullemad tulemused.
 // Uurisin YouTube videoid ja teiste reposid. Lõpuks leidsin, et probleem oli CSS failis.
 // Tegin sellele kellale uue CSS faili, ning kell hakkas normaalselt tööle.
 
