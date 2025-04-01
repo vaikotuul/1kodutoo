@@ -1,7 +1,7 @@
 # Interaktiivne Digikell
 Autor: **Vaiko Villiam Tuul**
 ## Pilt põhilisest kellast
-![Kuvatõmmis main kellast](https://github.com/vaikotuul/1kodutoo/blob/main/pildid/Kuvat%C3%B5mmis%202025-03-31%20195218.png?raw=true)
+![Kuvatõmmis main kellast](https://github.com/vaikotuul/1kodutoo/blob/main/pildid/Kuvat%C3%B5mmis%202025-04-01%20135624.png?raw=true)
 ## Pilt lisa kellast
 ![Kuvatõmmis DVD screensaver stiili kellast](https://github.com/vaikotuul/1kodutoo/blob/main/pildid/Kuvat%C3%B5mmis%202025-03-31%20202939.png?raw=true)
 
