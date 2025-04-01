@@ -15,7 +15,7 @@
 
 
 // Algsätted
-let currentFontSize = 1;
+let currentFontSize = 9;
 const fonts = ['Orbitron', 'Open Sans', 'Roboto Mono', 'Courier New', 'Arial'];
 let currentFontIndex = 0;
 let is24HourFormat = true;
